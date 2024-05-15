@@ -1,0 +1,1 @@
+#Crud operetions asp.net core 8, EntityFrameworkCore
